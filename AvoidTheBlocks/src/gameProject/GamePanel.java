@@ -31,7 +31,7 @@ public class GamePanel extends JPanel implements KeyListener{
 	
 	//----------Player Information----------
 	private Player player;
-	int player_width = 110;
+	int player_width = 90;
 	int player_height = 20;
 	int speed = 5;
 	
